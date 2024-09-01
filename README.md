@@ -48,7 +48,7 @@ A good practice is to use
 
 ![commit with message.jpg](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/commit%20with%20message.jpg?raw=true)
 
-I will create two new branches  so other developers can use for troubleshooting. 
+I will create two new branches so other developers can use them for troubleshooting. 
 Then I will push the updates and new branch to the remote repository.
 
 ![pushed second branch.jpg](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/pushed%20second%20branch.jpg?raw=true)
@@ -59,7 +59,7 @@ Then I will push the updates and new branch to the remote repository.
 
 Now my changes are reflected in the remote repository.![changes are reflecte in remote rep.jpg](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/changes%20are%20reflecte%20in%20remote%20rep.jpg?raw=true)
 
-Now i have created a pull request to merge the changes.
+Finally, I created a pull request to merge the changes.
 
 
 ![pulled and meged.jpg](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/pulled%20and%20meged.jpg?raw=true)
