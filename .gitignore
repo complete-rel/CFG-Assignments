@@ -1,3 +1,4 @@
+
 This is to explain what this does.
 certain files will not commited should one use this or later commits.
 
@@ -10,3 +11,4 @@ A .gitignore file is a plain text file that contains a list of all the specified
 Typically, a .gitignore file gets placed in the root directory of the repository. The root directory is also known as the parent and the current working directory. The root folder contains all the files and other folders that make up the project.
 
 That said, you can place it in any folder in the repository. You can even have multiple .gitignore files, for that matter.
+
