@@ -69,13 +69,14 @@ Now my changes are reflected in the remote repository.![changes are reflecte in 
 ![m](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/merge%20branches.jpg?raw=true)
 
 **push on main branch**
+
 ![m](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/push%20on%20main%20branch.jpg?raw=true)
 
+>git pull
+>
+![pull](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/git%20pull.jpg?raw=true)
 
-
-
-Finally, I created a pull request.
-
+created pull request
 
 ![pulled and meged.jpg](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/pulled%20and%20meged.jpg?raw=true)
 
