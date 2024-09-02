@@ -83,6 +83,11 @@ created pull request
 
 
 > Thank you for reading this!
+>
+
+
+I have added all images to the folder .
+
 
 I have also added the link to the [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
