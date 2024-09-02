@@ -89,6 +89,12 @@ created pull request
 I have added all images to the folder .
 
 
+
+Please have a look to the commands I've used to remove a directory that I didn't wanted.
+![m](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/how%20i%20removed%20a%20directory%201.jpg?raw=true)
+![m](https://github.com/complete-rel/CFG-Assignments/blob/main/First%20Assignment/images/how%20removed%20the%20directory%202.jpg?raw=true)
+
+
 I have also added the link to the [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 >> If you have any questions please do not hesitate to contact me at <averescu.ana@gmail.com>
