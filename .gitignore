@@ -1,2 +1,6 @@
 This is to explain what this does.
 certain files will not commited should one use this or later commits.
+
+
+.gitignore file is used to tell Git wich files and directories to ignore when making commits.
+Users who clone my repository can know this too.
