@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Grenze+Gotisch:wght@100..900&family=Sono:wght@200..800&family=Trochut:ital,wght@0,400;0,700;1,400&display=swap");
+
+
+* {
+  font-family: "Sono", monospace;
+}
+
+h1 {
+  color: #333333;
+  text-align: center;
+  margin: 40px;
+}
+
+h2 {
+  color: #333333;
+  text-align: center;
+  margin: 40px;
+  }
+
+h3 {
+  color: #333333;
+  text-align: center;
+  margin: 40px;
+  }
+
+
+body {
+  text-color: #333333;
+  text-size: 50px;
+  text-align: center;
+  margin: 40px;
+  }
+
+
+input {
+  color: #333333;
+  font-size: 16px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#destination-selection {
+    padding: 20px;
+    color : #33333;
+    border: 4px solid #ccc;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#submitButton {
+      background-color: #94b8b8; 
+      color: #33333; 
+      border: 1px; 
+      padding: 12px 25px; 
+      font-size: 16px; 
+      font-weight: bold; 
+      border-radius: 8px; /
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.2s ease; 
+    }
+
+ #submitButton:hover {
+      background-color: #5c8a8a;
+      transform: scale(1.05); 
+      cursor: pointer;
+    }
+
+  
+#submitButton:active {
+      background-color: #293d3d; 
+      transform: scale(0.98); 
+}
+      
+ legend {
+      font-size: 30px; 
+      color: #0a0f0f; 
+    }
+#country-Button {
+   background-color: #94b8b8; 
+      color: #33333; 
+      border: 1px; 
+      padding: 12px 25px; 
+      font-size: 16px; 
+      font-weight: bold; 
+      border-radius: 8px; /
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.2s ease; 
+}
+
+#country-Button:hover {
+      background-color: #5c8a8a;
+      transform: scale(1.05); 
+        cursor: pointer;
+    }
+
+  
+#country-Button:active {
+      background-color: #293d3d; 
+      transform: scale(0.98);
