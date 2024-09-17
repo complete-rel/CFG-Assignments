@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CFG-Assignments
 
 
@@ -101,3 +102,6 @@ I have also added the link to the [cheatsheet](https://education.github.com/git-
 >>
 >
 
+=======
+This readme file is to let the user know that each project has an individual readme
+>>>>>>> ac1dde471865082089e97c94375d83b2259d6ccd
