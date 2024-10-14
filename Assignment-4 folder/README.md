@@ -27,6 +27,7 @@ This app is designed for a spooky Halloween party, where users can add their spo
      npm install dotenv
      ```
  3. Import the spookyDB.sql
+  
  4. Create a `.env` file in the root directory and add MySQL credentials
     ```bash
     MYSQL_HOST=localhost
@@ -44,7 +45,7 @@ The `.gitignore` file should look like this:
 .env
 ```
 
-## [API Endpoints]
+## API Endpoints
 
 GET /: Welcome message.
 
@@ -97,6 +98,25 @@ OR if can make sure that d spooky.js in the start line in the package-json
 npm start
 ```
 Thee API will be available at `http://localhost:3000.`
+
+Testing with Postman
+
+Download and Install Postman.
+
+Create a New Request:
+
+Open Postman and create a new request by clicking on the "New" button.
+Select "Request".
+Set Up the Request:
+
+Choose the HTTP method (GET, POST, PUT, DELETE) depending on the endpoint you want to test.
+Enter the API endpoint URL (e.g., http://localhost:3000/create-character for POST).
+If you're sending a POST or PUT request, navigate to the Body tab and select "raw". 
+Choose JSON as the format and enter the JSON payload.
+Send the Request: Click the "Send" button to execute the request and view the response.
+
+View Responses: You will see the API response, including the status code and response body, in the lower section of Postman.
+
 
 ## Contributing
 Contributions are welcome! Please create a pull request for any enhancements or fixes.
